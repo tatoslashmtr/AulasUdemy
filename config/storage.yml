@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: cabinet
+  pool: 5
+  username: mtr
+  password: "qapl10zm"
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: cabinet
+  pool: 5
+  username: mtr
+  password: "qapl10zm"
